@@ -1,7 +1,7 @@
 USE [master]
 GO
 
-/****** Object:  Database [QLTNDT]    Script Date: 26-Jan-24 10:35:34 PM ******/
+/****** Object:  Database [QLTNDT]    Script Date: 30-Jan-24 1:21:43 AM ******/
 CREATE DATABASE [QLTNDT]
  CONTAINMENT = NONE
  ON  PRIMARY 
